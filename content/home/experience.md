@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Visiting Graduate Student
     company: Harvard University
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'https://projects.iq.harvard.edu/uchidalab/home'
+    company_logo: harvard
     location: Cambridge, MA, US
     date_start: '2022-02-15'
     date_end: '2022-08-31'
@@ -33,26 +33,33 @@ experience:
 
   - title: R&D Engineer
     company: RDS (Rhythm Diagnostic Systems)
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://rdsdiag.com/'
+    company_logo: rds
     location: Strasbourg, France
     date_start: '2021-08-01'
     date_end: '2022-02-01'
-    description: Normality models to detect noises and anomalies in clinical physiologic signals (ECG and PPG). Data mining, AI/ML models, Riemannian geometry. Part of an AGILE work-environment (JIRA, Bitbucket). ParFcipaFon in the engineering life-cycle of the product.
+    description: Normality models to detect noises and anomalies in clinical physiologic signals (ECG and PPG). Data mining, AI/ML models, Riemannian geometry. Part of an AGILE work-environment (JIRA, Bitbucket). Participation in the engineering life-cycle of the product.
 
   - title: Student Research Assistant
     company: Ecole Polytechnique Fédérale de Lausanne (EPFL)
-    company_url: ''
+    company_url: 'https://rdsdiag.com/'
     company_logo: epfl
     location: Lausanne, Switzerland
     date_start: '2020-01-01'
     date_end: '2021-07-31'
-    description: Mathis Laboratory of Adaptative Motor Control (6 months) Discrete Representation of Behaviors in a multi-agent dataset. Herzog Lab - Laboratory of Psychophysics Modeling of Serial Dependency in Visual Perception.Gräff Lab Laboratory of Neuroepigenetics Functional Mapping of Remote fear memory extinction.
+    description: |2-
+        Semester projets in diverse laboratories of the School of Life Sciences: 
+        
+        * Mathis Laboratory of Adaptative Motor Control - Discrete Representation of Behaviors in a multi-agent dataset.
+        * Herzog Lab - Laboratory of Psychophysics - Modeling of Serial Dependency in Visual Perception.
+        * Gräff Lab - Laboratory of Neuroepigenetics - Functional Mapping of Remote fear memory extinction.
+    
+     
 
   - title: Summer Research Student 
     company: University of Cambridge
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.pdn.cam.ac.uk/'
+    company_logo: cambridge
     location: Cambridge, UK
     date_start: '2019-08-01'
     date_end: '2019-08-31'
