@@ -1,7 +1,7 @@
 ---
 title: Célia Benquet
 role: Research Software Engineer
-avatar_filename: celia_benquet.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -28,7 +28,7 @@ education:
     - course: MSc in Computational Neurosciences
       institution: EPFL
       year: 2022
-    - course: "BSc in Life Science Engineering "
+    - course: BSc in Life Science Engineering
       institution: EPFL
       year: 2019
 superuser: true
@@ -37,6 +37,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+I am a research software engineer at the Mathis lab of adaptive motor control. I just graduated from EPFL with a Master's degree. I specialize in computational neurosciences. 
 
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
