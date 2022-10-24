@@ -47,9 +47,7 @@ experience:
     location: Lausanne, Switzerland
     date_start: '2020-01-01'
     date_end: '2021-07-31'
-    description: - Mathis Laboratory of Adapta1ve Motor Control (6 months): Discrete Representation of Behaviors in a multi-agent dataset.
-    - Herzog Lab - Laboratory of Psychophysics: Modeling of Serial Dependency in Visual Perception.
-    - Gräff Lab - Laboratory of Neuroepigenetics: Functional Mapping of Remote fear memory extinction.
+    description: Mathis Laboratory of Adaptative Motor Control (6 months) Discrete Representation of Behaviors in a multi-agent dataset. Herzog Lab - Laboratory of Psychophysics Modeling of Serial Dependency in Visual Perception.Gräff Lab Laboratory of Neuroepigenetics Functional Mapping of Remote fear memory extinction.
 
   - title: Summer Research Student 
     company: University of Cambridge
