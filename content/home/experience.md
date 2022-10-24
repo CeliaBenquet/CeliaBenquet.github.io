@@ -43,7 +43,7 @@ experience:
   - title: Student Research Assistant
     company: Ecole Polytechnique Fédérale de Lausanne (EPFL)
     company_url: ''
-    company_logo: epfl
+    company_logo: org-x
     location: Lausanne, Switzerland
     date_start: '2020-01-01'
     date_end: '2021-07-31'
