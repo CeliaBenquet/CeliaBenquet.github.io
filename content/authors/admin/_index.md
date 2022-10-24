@@ -1,7 +1,7 @@
 ---
 title: Célia Benquet
 role: Research Software Engineer
-avatar_filename: img_6009-2.png
+avatar_filename: celia_benquet.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
