@@ -30,12 +30,12 @@ experience:
     date_start: '2022-11-01'
     date_end: ''
     description: |2-
-    I am working with Steffen Schneider (Ph.D. student) on implementing new fonctionalities to CEBRA, a novel method to map behaviors and neural activity by producing consistent latent spaces. My role includes: 
+        I am working with Steffen Schneider (Ph.D. student) on implementing new fonctionalities to CEBRA, a novel method to map behaviors and neural activity by producing consistent latent spaces. My role includes: 
 
-    * Weekly meeting with design team.
-    * Joint modeling of auxiliary and time-series data code development and extensions.
-    * Maintenance of the existing code.
-    * Building data management & inference pipelines for models and code.
+        * Weekly meeting with design team.
+        * Joint modeling of auxiliary and time-series data code development and extensions.
+        * Maintenance of the existing code.
+        * Building data management & inference pipelines for models and code.
 
   - title: Visiting Graduate Student
     company: Uchida lab, Harvard University
