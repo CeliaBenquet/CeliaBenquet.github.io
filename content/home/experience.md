@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
@@ -77,7 +77,7 @@ experience:
     company_logo: cambridge
     location: Cambridge, UK
     date_start: '2019-08-01'
-    #date_end: '2019-08-31'
+    date_end: '2019-09-01'
     description: Easy-to-use accessible Matlab-tool to map freezing and vocalizing behaviors when fear or anxiety in rats from experimental video recordings to facilitate behavioral analysis.
 
 design:
