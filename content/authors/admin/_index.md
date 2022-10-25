@@ -41,4 +41,4 @@ I am a research software engineer at the Mathis lab of adaptive motor control. I
 
 My interests include [. ..]
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Celia_Benquet.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Celia_Benquet.pdf""newtab" >}}resumé{{< /staticref >}}.
