@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Software Engineer
-    company: Mathis lab, EPFL
+    company: Mathis Lab, EPFL
     company_url: 'http://www.mackenziemathislab.org/'
     company_logo: mathis
     location: Geneva, Switzerland

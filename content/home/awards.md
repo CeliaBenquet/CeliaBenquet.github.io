@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://wish-foundation.epfl.ch/masters-projects-abroad/
+  - certificate_url: ''
     date_end: '2022-08-31'
     date_start: '2022-02-15'
     description: The EPFL-WISH (Women in Science and Humanities) rewards EPFL best female students and support them in their Master's Thesis abroad.
-    organization: DataCamp
+    organization: EPFL-WISH
     organization_url: https://wish-foundation.epfl.ch/masters-projects-abroad/
     title: EPFL-WISH Fundation Fellowship
     url: ''
