@@ -23,21 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  # - certificate_url: https://www.coursera.org
-  #   date_end: ''
-  #   date_start: '2021-01-25'
-  #   description: ''
-  #   organization: Coursera
-  #   organization_url: https://www.coursera.org
-  #   title: Neural Networks and Deep Learning
-  #   url: ''
   - certificate_url: https://wish-foundation.epfl.ch/masters-projects-abroad/
     date_end: '2022-08-31'
     date_start: '2022-02-15'
-    description: 'The EPFL-WISH (Women in Science and Humanities) rewards EPFL best female students and support them in their Master's Thesis abroad.'
-    organization: EPFL
+    description: The EPFL-WISH (Women in Science and Humanities) rewards EPFL best female students and support them in their Master's Thesis abroad.
+    organization: DataCamp
     organization_url: https://wish-foundation.epfl.ch/masters-projects-abroad/
-    title: 'EPFL-WISH Fundation Fellowship'
+    title: EPFL-WISH Fundation Fellowship
     url: ''
 
 design:
