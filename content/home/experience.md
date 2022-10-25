@@ -22,8 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Software Engineer
+    company: Mathis lab, EPFL
+    company_url: 'http://www.mackenziemathislab.org/'
+    company_logo: mathis
+    location: Geneva, Switzerland
+    date_start: '2022-11-01'
+    date_end: ''
+    description: |2-
+    I am working with Steffen Schneider (Ph.D. student) on implementing new fonctionalities to CEBRA, a novel method to map behaviors and neural activity by producing consistent latent spaces. My role includes: 
+
+    * Weekly meeting with design team.
+    * Joint modeling of auxiliary and time-series data code development and extensions.
+    * Maintenance of the existing code.
+    * Building data management & inference pipelines for models and code.
+
   - title: Visiting Graduate Student
-    company: Harvard University
+    company: Uchida lab, Harvard University
     company_url: 'https://projects.iq.harvard.edu/uchidalab/home'
     company_logo: harvard
     location: Cambridge, MA, US
@@ -62,7 +77,7 @@ experience:
     company_logo: cambridge
     location: Cambridge, UK
     date_start: '2019-08-01'
-    date_end: '2019-08-31'
+    #date_end: '2019-08-31'
     description: Easy-to-use accessible Matlab-tool to map freezing and vocalizing behaviors when fear or anxiety in rats from experimental video recordings to facilitate behavioral analysis.
 
 design:
