@@ -32,10 +32,10 @@ education:
       institution: EPFL
       year: 2019
 superuser: true
-last_name: Bighetti
+last_name: Benquet
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Célia
+email: "celia.benquet@gmail.com"
 ---
 I am a research software engineer at the Mathis lab of adaptive motor control. I just graduated from EPFL with a Master's degree. I specialize in computational neurosciences. 
 
