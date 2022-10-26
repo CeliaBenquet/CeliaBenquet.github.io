@@ -63,10 +63,10 @@ related:
   includeNewer: true
   toLower: true
   indices:
-    #- name: tags
-    #  weight: 67
-    #- name: categories
-    #  weight: 70
+    - name: tags
+     weight: 67
+    - name: categories
+     weight: 70
 security:
   _merge: deep
 sitemap:
