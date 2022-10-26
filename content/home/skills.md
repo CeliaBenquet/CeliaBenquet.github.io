@@ -22,7 +22,7 @@ feature:
     name: Python
   - description: Learning and decision-making
     icon: brain
-    icon_pack: fab
+    icon_pack: fas
     name: Neurosciences
   - description: Matlab, Java, C++, SQL
     icon: code
