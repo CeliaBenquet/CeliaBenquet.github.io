@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: Learning and decision-making
-    icon: brain-circuit
+    icon: brain
     icon_pack: fab
     name: Neurosciences
   - description: Matlab, Java, C++, SQL
