@@ -22,7 +22,7 @@ feature:
     name: Python
   - description: Learning and decision-making
     icon: brain-circuit
-    icon_pack: fas
+    icon_pack: fab
     name: Neurosciences
   - description: Matlab, Java, C++, SQL
     icon: code
@@ -30,15 +30,15 @@ feature:
     name: Programming
   - description: 
     icon: network-wired
-    icon_pack: fab
+    icon_pack: fas
     name: ML/DL
   - description: 
     icon: people-group
-    icon_pack: fab
+    icon_pack: fas
     name: Teamwork
   - description: 
     icon: pen-nib
-    icon_pack: fab
+    icon_pack: fas
     name: Academic writting
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
