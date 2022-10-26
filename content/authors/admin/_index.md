@@ -2,12 +2,11 @@
 title: Célia Benquet
 role: Research Software Engineer
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I'm interested in understanding the internal models of the brain, related to higher processings such as learning or decision-making. 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Neurosciences
+  - Artificial & neural intelligence
+  - Learning, Decision-Making
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,8 +36,10 @@ highlight_name: true
 first_name: Célia
 email: "celia.benquet@gmail.com"
 ---
-I am a research software engineer at the Mathis lab of adaptive motor control. I just graduated from EPFL with a Master's degree. I specialize in computational neurosciences. 
+I am a research software engineer at the Mathis lab of adaptive motor control. I just graduated from EPFL with a Master's degree. I specialize in computational neurosciences.
 
-My interests include [. ..]
+I found myself with a strong interest in understanding the internal models of the brain, related to higher processings such as learning or decision-making. More generally, I'm 
+
+My interests lie in the field of system neuroscicences. During the course of my work experiences (both academic and industrial), I 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Celia_Benquet.pdf""newtab" >}}resumé{{< /staticref >}}.

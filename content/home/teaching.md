@@ -1,7 +1,7 @@
 ---
-# An instance of the Accomplishments widget.
+# An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: experience
 
 # This file represents a page section.
 headless: true
@@ -9,44 +9,61 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Teaching'
+title: Teaching
 subtitle:
 
-# Date format
+# Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+experience:
+  - title: Basic C++ and Algorithms
+    company: EPFL
+    company_url: ''
+    company_logo: epfl
+    location: 
+    date_start: '2019-02-15'
+    date_end: '2020-07-15'
+    description: |2-
+        Teaching assistant for first-year Bachelor' students in the course of Prof. Jamila Sam and Barbara Jobstmann. Both in person and remotly. This included:
+
+        * Follow-up on courses, answering questions and deepening certain theoretical notions.
+        * Leading the excercises sessions, orienting students on difficult questions.
+        * Answering on Piazza forum / Zoom chat, keeping students motivated even remotly. 
+
+  - title: Complex and vectorial analysis
+    company: EPFL
+    company_url: ''
+    company_logo: epfl
+    location: 
+    date_start: '2019-02-15'
+    date_end: '2020-07-15'
+    description: |2-
+        Teaching assistant for second-year Bachelor' students. Both in person and remotly. This included:
+
+        * Follow-up on courses, answering questions and deepening certain theoretical notions.
+        * Leading the excercises sessions, orienting students on difficult questions.
+        * Answering on Piazza forum / Zoom chat, keeping students motivated even remotly. 
+
+  - title: Thermodynamics and Relativity
+    company: EPFL
+    company_url: ''
+    company_logo: epfl
+    location: 
+    date_start: '2017-02-15'
+    date_end: '2019-07-15'
+    description: |2-
+        Teaching assistant for first-year Bachelor' students in the course of Prof. Ivo Furno. Both in person and remotly. This included:
+
+        * Follow-up on courses, answering questions and deepening certain theoretical notions.
+        * Leading the excercises sessions, orienting students on difficult questions.
+        * Correcting mock-exams and presenting the solutions to the student on white board. 
+        * Answering on Piazza forum / Zoom chat, keeping students motivated even remotly. 
 
 design:
   columns: '2'
