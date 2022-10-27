@@ -30,7 +30,7 @@ experience:
     date_start: '2019-02-15'
     date_end: '2020-07-15'
     description: |2-
-        Teaching assistant for first-year Bachelor' students in the course of Prof. Jamila Sam and Barbara Jobstmann. Both in person and remotly. This included:
+        Teaching assistant for first-year Bachelor's students in the course of Prof. Jamila Sam and Barbara Jobstmann. Both in person and remotly. This included:
 
         * Follow-up on courses, answering questions and deepening certain theoretical notions.
         * Leading the excercises sessions, orienting students on difficult questions.
@@ -44,7 +44,7 @@ experience:
     date_start: '2019-02-15'
     date_end: '2020-07-15'
     description: |2-
-        Teaching assistant for second-year Bachelor' students. Both in person and remotly. This included:
+        Teaching assistant for second-year Bachelor's students. Both in person and remotly. This included:
 
         * Follow-up on courses, answering questions and deepening certain theoretical notions.
         * Leading the excercises sessions, orienting students on difficult questions.
@@ -58,7 +58,7 @@ experience:
     date_start: '2017-02-15'
     date_end: '2019-07-15'
     description: |2-
-        Teaching assistant for first-year Bachelor' students in the course of Prof. Ivo Furno. Both in person and remotly. This included:
+        Teaching assistant for first-year Bachelor's students in the course of Prof. Ivo Furno. Both in person and remotly. This included:
 
         * Follow-up on courses, answering questions and deepening certain theoretical notions.
         * Leading the excercises sessions, orienting students on difficult questions.

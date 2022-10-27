@@ -29,7 +29,7 @@ item:
     description: The EPFL-WISH (Women in Science and Humanities) rewards EPFL best female students and support them in their Master's Thesis abroad.
     organization: EPFL-WISH
     organization_url: https://wish-foundation.epfl.ch/masters-projects-abroad/
-    title: EPFL-WISH Fundation Fellowship
+    title: EPFL-WISH Foundation Fellowship
     url: ''
 
 design:
