@@ -1,20 +1,18 @@
 ---
-title: Development of Signal Quality Indices (SQIs) for physiological data
-summary: RDS (Rhythm Diagnostic Systems) - 6 months - 100%
+title: Discrete representation of Behaviors in a multi-agent dataset
+summary: Mathis Lab, EPFL - 6 months - 20% 
 tags:
   - Deep Learning
-  - Signal Processing
-  - Riemmanian geometry
-  - Normality models
-  - ECG
-  - PPG
-date: '2022-02-15T00:00:00Z'
+  - Variational Auto-encoder
+  - Discretization
+  - Behavior representation
+date: '2022-08-31T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: RDS (Rhythm Diagnostic Systems)
+  caption: 
   focal_point: Smart
 
 # links:
@@ -23,8 +21,8 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'slides/internship/internship-report.pdf'
-url_slides: ''
+url_pdf: ''
+url_slides: 'slides/mathis-semester-project/mathis-semester-project-slides.pdf'
 url_video: ''
 
 # Slides (optional).
