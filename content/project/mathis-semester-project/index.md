@@ -1,6 +1,6 @@
 ---
 title: Discrete representation of Behaviors in a multi-agent dataset
-summary: Mathis Lab, EPFL - 6 months - 20% 
+summary: Mathis Lab, EPFL - 6 months - 20% - Semester Project
 tags:
   - Deep Learning
   - Variational Auto-encoder

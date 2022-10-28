@@ -1,6 +1,6 @@
 ---
-title: Master's Thesis - Towards the neural basis of belief state computation in the brain
-summary: Uchida Lab, Harvard University - 6 months - 100%
+title: Towards the neural basis of belief state computation in the brain
+summary: Uchida Lab, Harvard University - 6 months - 100% - Master's Thesis
 tags:
   - Machine Learning
   - System Neuroscience

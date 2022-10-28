@@ -1,6 +1,6 @@
 ---
 title: Development of Signal Quality Indices (SQIs) for physiological data
-summary: RDS (Rhythm Diagnostic Systems) - 6 months - 100%
+summary: RDS (Rhythm Diagnostic Systems) - 6 months - 100% - Internship
 tags:
   - Deep Learning
   - Signal Processing
