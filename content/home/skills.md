@@ -39,7 +39,7 @@ feature:
   - description: 
     icon: pen-nib
     icon_pack: fas
-    name: Academic Writting
+    name: Academic Writing
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
