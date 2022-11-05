@@ -6,7 +6,7 @@ tags:
   - Histology
   - cFos immunohistochemistry
   - Retrograde viral cell labelling
-date: '2020-07-15T00:00:00Z'
+date: '2020-07-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
