@@ -30,7 +30,7 @@ experience:
     date_start: '2022-11-01'
     date_end: ''
     description: |2-
-        I am working with Steffen Schneider (Ph.D. student) on implementing new fonctionalities to CEBRA, a novel method to map behaviors and neural activity by producing consistent latent spaces. My role includes: 
+        I am working with Steffen Schneider (Ph.D. student) on implementing new functionalities to CEBRA, a novel method to map behaviors and neural activity by producing consistent latent spaces. My role includes: 
 
         * Joint modeling of auxiliary and time-series data code development and extensions.
         * Maintenance of the existing code.

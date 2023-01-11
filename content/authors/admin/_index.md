@@ -40,4 +40,4 @@ I am a research software engineer at the Mathis lab of adaptive motor control. I
 
 I have a strong interest in understanding the internal models of the brain, related to higher processings such as learning or decision-making. More generally, I'm fascinated with how neurosciences and computer sciences are interlaced, each of those fields needing the other to progress. More specifically, with the development of powerful recording tools such as Neuropixels, I believe that the challenges of the field are now to develop the appropriate computational methods to find structure in that data. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Celia_Benquet.pdf""newtab" >}}resumé{{< /staticref>}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Celia_Benquet.pdf""newtab" >}}resumé{{< /staticref>}}
