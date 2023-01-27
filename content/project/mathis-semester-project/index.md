@@ -22,7 +22,7 @@ image:
 #     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'slides/mathis-semester-project/mathis-semester-project-slides.pdf'
+#url_slides: 'slides/mathis-semester-project/mathis-semester-project-slides.pdf'
 url_video: ''
 
 # Slides (optional).
