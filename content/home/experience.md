@@ -28,9 +28,9 @@ experience:
     company_logo: mathis
     location: Geneva, Switzerland
     date_start: '2022-11-01'
-    date_end: ''
+    date_end: '2023-04-30'
     description: |2-
-        I am working with Steffen Schneider (Ph.D. student) on implementing new functionalities to CEBRA, a novel method to map behaviors and neural activity by producing consistent latent spaces. My role includes: 
+        Work with Steffen Schneider (Ph.D. student) on implementing new functionalities to CEBRA, a method to map behaviors and neural activity by producing consistent latent spaces (Nature, 2023). My role included: 
 
         * Joint modeling of auxiliary and time-series data code development and extensions.
         * Maintenance of the existing code.
