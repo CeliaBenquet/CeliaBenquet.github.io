@@ -22,7 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Software Engineer
+  - title: PhD student
+    company: Mathis Lab, EPFL
+    company_url: 'http://www.mackenziemathislab.org/'
+    company_logo: mathis
+    location: Geneva, Switzerland
+    date_start: '2023-05-01'
+    date_end: 
+    description: |2-
+        
+        * Working on representation and adaptive learning in biological and artificial networks. 
+        * Part of the European Laboratory for Learning and Intelligent Systems (ELLIS) PhD program.
+
+
+
+- title: Research Software Engineer
     company: Mathis Lab, EPFL
     company_url: 'http://www.mackenziemathislab.org/'
     company_logo: mathis
@@ -30,7 +44,7 @@ experience:
     date_start: '2022-11-01'
     date_end: '2023-04-30'
     description: |2-
-        Work with Steffen Schneider (Ph.D. student) on implementing new functionalities to CEBRA, a method to map behaviors and neural activity by producing consistent latent spaces (Nature, 2023). My role included: 
+        Implementation of new functionalities to CEBRA, a dimensionality reduction tool for neural data, using contrastive learning (Nature, 2023).
 
         * Joint modeling of auxiliary and time-series data code development and extensions.
         * Maintenance of the existing code.

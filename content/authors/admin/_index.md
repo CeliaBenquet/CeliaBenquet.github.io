@@ -20,13 +20,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/celiabenquet/
-    label: Connect on LinkedIn
     display:
       header: false
   - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/celia_bqt
-    label: Follow me on X
     display:
       header: true
   - icon: cv
@@ -58,7 +56,7 @@ email: "celia.benquet@gmail.com"
 highlight_name: true
 ---
 
-I am a first-year PhD student in computational neuroscience 🧠 at the [Mathis lab of Adaptive Motor Control](http://www.mackenziemathislab.org/) (PI Prof. Mackenzie Mathis) as part of the [ELLIS PhD program](https://ellis.eu/). I work on understanding how the brain represents external features in its environment and constructs internal models to generalize and extract the relevant information from it 🧩. I have a strong interest in investigating the dynamics 💫 taking place during the formation of such internal representation while learning a task. To do so, I will relate motor control 💪and vision 👀 by exploring the processes at play in active sensing. 
+I am a first-year PhD student in computational neuroscience 🧠 at the [Mathis lab of Adaptive Motor Control](http://www.mackenziemathislab.org/) (PI Prof. Mackenzie Mathis) as part of the [ELLIS PhD program](https://ellis.eu/). I work on understanding how the brain represents external features in its environment and constructs internal models to generalize and extract the relevant information from it 🧩. I have a strong interest in investigating the dynamics 💫 taking place during the formation of such internal representation while learning a task. To do so, I will relate motor control 💪 and vision 👀 by exploring the processes at play in active sensing. 
 
 More generally, with the development of powerful recording tools 📡 such as Neuropixels, neuroscientists can find relevant structure in the data, at the neural population level. I am interested in bringing the appropriate computational and mathematical methods to the field, by adapting theories from topological algebra, graphs or dynamical systems.
 
