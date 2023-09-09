@@ -30,13 +30,10 @@ experience:
     date_start: '2023-05-01'
     date_end: 
     description: |2-
-        
         * Working on representation and adaptive learning in biological and artificial networks. 
         * Part of the European Laboratory for Learning and Intelligent Systems (ELLIS) PhD program.
 
-
-
-- title: Research Software Engineer
+  - title: Research Software Engineer
     company: Mathis Lab, EPFL
     company_url: 'http://www.mackenziemathislab.org/'
     company_logo: mathis
