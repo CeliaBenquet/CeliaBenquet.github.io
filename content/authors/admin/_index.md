@@ -6,26 +6,32 @@ bio: I'm interested in understanding the internal models of the brain, related t
 interests:
   - Computational Neurosciences
   - Artificial & neural intelligence
+  - Representation learning
   - Dynamical systems
   - Motor control, vision & learning
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:celia.benquet@gmail.com
+    label: Contact me!
   - icon: github
     icon_pack: fab
     link: https://github.com/CeliaBenquet
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/celiabenquet/
+    label: Connect on LinkedIn
     display:
       header: false
   - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/celia_bqt
+    label: Follow me on X
+    display:
+      header: true
   - icon: cv
     icon_pack: ai
-    link: < staticref "uploads/CV_Celia_Benquet.pdf""newtab" >
+    link: uploads/CV_Celia_Benquet.pdf
 organizations:
   - name: Mathis Lab, EPFL
     url: http://www.mackenziemathislab.org/
@@ -47,6 +53,9 @@ last_name: Benquet
 highlight_name: true
 first_name: Célia
 email: "celia.benquet@gmail.com"
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 I am a first-year PhD student in computational neuroscience 🧠 at the [Mathis lab of Adaptive Motor Control](http://www.mackenziemathislab.org/) (PI Prof. Mackenzie Mathis) as part of the [ELLIS PhD program](https://ellis.eu/). I work on understanding how the brain represents external features in its environment and constructs internal models to generalize and extract the relevant information from it 🧩. I have a strong interest in investigating the dynamics 💫 taking place during the formation of such internal representation while learning a task. To do so, I will relate motor control 💪and vision 👀 by exploring the processes at play in active sensing. 
