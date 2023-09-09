@@ -41,7 +41,7 @@ education:
   courses:
     - course: PhD in Electrical Engineering
       institution: EPFL
-      year: -
+      year: Present
     - course: MSc in Computational Neurosciences
       institution: EPFL
       year: 2022
