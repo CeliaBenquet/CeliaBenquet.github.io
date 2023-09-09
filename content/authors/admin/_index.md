@@ -22,11 +22,9 @@ social:
     link: https://www.linkedin.com/in/celiabenquet/
     display:
       header: false
-  - icon: x-twitter
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/celia_bqt
-    display:
-      header: true
   - icon: cv
     icon_pack: ai
     link: uploads/CV_Celia_Benquet.pdf
