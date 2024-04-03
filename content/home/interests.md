@@ -1,7 +1,7 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: interests
+widget: features
 
 # This file represents a page section.
 headless: true
@@ -24,7 +24,6 @@ feature:
     icon: seedling
     icon_pack: fas
     name: Environment
-  
   - description: Marathon, semi-marathon, trails
     icon: person-running
     icon_pack: fas
