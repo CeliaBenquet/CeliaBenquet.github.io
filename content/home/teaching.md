@@ -37,7 +37,7 @@ experience:
         * Follow-up on courses, answering questions and deepening complex concepts.
         * Reviewing, proctoring & correcting exams.
 
-- title: Basic Neurosciences
+  - title: Basic Neurosciences
     company: EPFL
     company_url: ''
     company_logo: epfl
