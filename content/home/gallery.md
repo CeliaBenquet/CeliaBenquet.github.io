@@ -7,7 +7,7 @@ widget: markdown
 headless: true
 
 # Order that this section appears on the page.
-weight: 66
+weight: 90
 
 title: Gallery
 subtitle:
@@ -16,4 +16,4 @@ design:
   columns: '1'
 ---
 
-{{< gallery album="demo" layout="mosaic" margin="2" aspect_ratio="16by9" >}}
+{{< gallery album="demo" layout="mosaic" margin="4" aspect_ratio="16by9" >}}

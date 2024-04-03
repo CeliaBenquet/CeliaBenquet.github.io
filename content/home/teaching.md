@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 70
 
 title: Teaching
 subtitle:
@@ -22,6 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: System Neurosciences
+    company: EPFL
+    company_url: ''
+    company_logo: epfl
+    location: 
+    date_start: '2024-02-15'
+    date_end: '2024-06-15'
+    description: |2-
+        Teaching assistant for Master's course of Prof. Mackenzie. This was the first year that the course was given. This included:
+
+        * Helping with the conception of the course, sections slides and exam questions.
+        * Leading weekly journal clubs during the exercise sections, orienting the students to have a discussion on the papers we reviewed.
+        * Follow-up on courses, answering questions and deepening complex concepts.
+        * Reviewing, proctoring & correcting exams.
+
+- title: Basic Neurosciences
+    company: EPFL
+    company_url: ''
+    company_logo: epfl
+    location: 
+    date_start: '2023-09-15'
+    date_end: '2023-12-15'
+    description: |2-
+        Teaching assistant for third-year Bachelor's students in the course of Prof. Mackenzie Mathis and Pavan Ramdya. This included:
+
+        * Overview presentation at the beginning of every exercises sections.
+        * Follow-up on courses, answering questions and deepening complex concepts.
+        * Leading the exercises sessions, orienting students on difficult questions.
+        * Reviewing, proctoring & correcting exams.
+
   - title: Basic C++ and Algorithms
     company: EPFL
     company_url: ''
@@ -33,7 +63,7 @@ experience:
         Teaching assistant for first-year Bachelor's students in the course of Prof. Jamila Sam and Barbara Jobstmann. Both in person and remotly. This included:
 
         * Follow-up on courses, answering questions and deepening certain theoretical notions.
-        * Leading the excercises sessions, orienting students on difficult questions.
+        * Leading the exercises sessions, orienting students on difficult questions.
         * Answering on Piazza forum / Zoom chat, keeping students motivated even remotly. 
 
   - title: Complex and vectorial analysis
@@ -47,7 +77,7 @@ experience:
         Teaching assistant for second-year Bachelor's students. Both in person and remotly. This included:
 
         * Follow-up on courses, answering questions and deepening certain theoretical notions.
-        * Leading the excercises sessions, orienting students on difficult questions.
+        * Leading the exercises sessions, orienting students on difficult questions.
         * Answering on Piazza forum / Zoom chat, keeping students motivated even remotly. 
 
   - title: Thermodynamics and Relativity
@@ -61,7 +91,7 @@ experience:
         Teaching assistant for first-year Bachelor's students in the course of Prof. Ivo Furno. Both in person and remotly. This included:
 
         * Follow-up on courses, answering questions and deepening certain theoretical notions.
-        * Leading the excercises sessions, orienting students on difficult questions.
+        * Leading the exercises sessions, orienting students on difficult questions.
         * Correcting mock-exams and presenting the solutions to the student on white board. 
         * Answering on Piazza forum / Zoom chat, keeping students motivated even remotly. 
 
