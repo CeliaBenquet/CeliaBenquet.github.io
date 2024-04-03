@@ -28,14 +28,18 @@ feature:
     icon: person-running
     icon_pack: fas
     name: Running
+  - description: Hiking, skiing, climbing
+    icon: mountain-sun
+    icon_pack: fas
+    name: Mountain sports
   - description:
     icon: masks-theater
-    icon_pack: fab
-    name: Acting
-  - description: Hiking, skiing, climbing
-    icon: mountains
     icon_pack: fas
-    name: Mountaining
+    name: Acting
+  - description: Sailing, kite-surfing, scuba-diving
+    icon: sailboat
+    icon_pack: fas
+    name: Water sports
 
 
 
