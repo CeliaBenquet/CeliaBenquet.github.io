@@ -22,9 +22,9 @@ social:
     link: https://www.linkedin.com/in/celiabenquet/
     display:
       header: false
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/celia_bqt
+  - icon: bluesky
+    icon_pack: fa
+    link: https://bsky.app/profile/celia-bqt.bsky.social
   - icon: cv
     icon_pack: ai
     link: uploads/CV_Celia_Benquet.pdf
@@ -54,8 +54,4 @@ email: "celia.benquet@gmail.com"
 highlight_name: true
 ---
 
-I am a first-year PhD student in computational neuroscience 🧠 at the [Mathis lab of Adaptive Motor Control](http://www.mackenziemathislab.org/) (PI Prof. Mackenzie Mathis) as part of the [ELLIS PhD program](https://ellis.eu/). I work on understanding how the brain represents external features in its environment and constructs internal models to generalize and extract the relevant information from it 🧩. I have a strong interest in investigating the dynamics 💫 taking place during the formation of such internal representation while learning a task. To do so, I will relate motor control 💪 and vision 👀 by exploring the processes at play in active sensing. 
-
-More generally, with the development of powerful recording tools 📡 such as Neuropixels, neuroscientists can find relevant structure in the data, at the neural population level. I am interested in bringing the appropriate computational and mathematical methods to the field, by adapting theories from topological algebra, graphs or dynamical systems.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Celia_Benquet.pdf""newtab" >}}resumé{{< /staticref>}}
+I am a second-year PhD candidate in computational neuroscience 🧠 at the [Mathis lab of Adaptive Intelligence](http://www.mackenziemathislab.org/) (PI Prof. Mackenzie Mathis) as part of the [ELLIS PhD program](https://ellis.eu/) and EDEE PhD program in EPFL. I work on understanding how the brain integrates external features in its environment and constructs neural representations models to generalize and extract the relevant information from it 🧩. I have a strong interest in investigating the dynamics 💫 taking place during the formation of such neural representations while learning and performing a task. To do so, I will relate vision 👀 and movements 💪 by exploring the processes at play in active sensing.
