@@ -23,8 +23,9 @@ social:
     display:
       header: false
   - icon: bluesky
-    icon_pack: fa
+    icon_pack: fab
     link: https://bsky.app/profile/celia-bqt.bsky.social
+    label: Follow me on Bluesky!
   - icon: cv
     icon_pack: ai
     link: uploads/CV_Celia_Benquet.pdf
