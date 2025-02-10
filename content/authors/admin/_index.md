@@ -28,7 +28,7 @@ social:
     label: Follow me on Bluesky!
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_Celia_Benquet.pdf
+    link: uploads/CeliaBenquet_CV.pdf
 organizations:
   - name: Mathis Lab, EPFL
     url: http://www.mackenziemathislab.org/
