@@ -119,7 +119,7 @@ renders as
 
 Wowchemy supports the popular [Plotly](https://plot.ly/) format for interactive charts.
 
-Save your Plotly JSON in your page folder, for example `line-chart.json`, and then add the `{{</* chart data="line-chart" */>}}` shortcode where you would like the chart to appear.
+Save your Plotly JSON in your page folder, for example `line-chart.json`, and then add the `{{< chart data="line-chart" >}}` shortcode where you would like the chart to appear.
 
 Demo:
 
@@ -131,16 +131,16 @@ You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.
 
 Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
 
-To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively. (We wrap the LaTeX math in the Wowchemy _math_ shortcode to prevent Hugo rendering our math as Markdown. The _math_ shortcode is new in v5.5-dev.)
+To render _inline_ or _block_ math, wrap your LaTeX math with `{{< math >}}$...${{< math >}}` or `{{< math >}}$$...$${{< math >}}`, respectively. (We wrap the LaTeX math in the Wowchemy _math_ shortcode to prevent Hugo rendering our math as Markdown. The _math_ shortcode is new in v5.5-dev.)
 
 Example **math block**:
 
 ```latex
-{{</* math */>}}
+{{< math >}}
 $$
 \gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
 $$
-{{</* /math */>}}
+{{< math >}}
 ```
 
 renders as
@@ -149,15 +149,15 @@ renders as
 $$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
 {{< /math >}}
 
-Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
+Example **inline math** `{{< math >}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
 
 Example **multi-line math** using the math linebreak (`\\`):
 
 ```latex
-{{</* math */>}}
+{{< math >}}
 $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
 1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-{{</* /math */>}}
+{{< math >}}
 ```
 
 renders as
