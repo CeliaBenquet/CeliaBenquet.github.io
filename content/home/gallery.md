@@ -16,5 +16,6 @@ design:
   columns: '1'
 ---
 
-{% gallery album="demo" layout="mosaic" margin="4" aspect_ratio="16by9" %}
+{% include gallery.html album="demo" layout="mosaic" margin="4" aspect_ratio="16by9" %}
+<!-- {% gallery album="demo" layout="mosaic" margin="4" aspect_ratio="16by9" %} -->
 <!-- {{< gallery album="demo" layout="mosaic" margin="4" aspect_ratio="16by9" >}} -->
