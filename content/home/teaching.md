@@ -30,7 +30,7 @@ experience:
     date_start: '2024-02-15'
     date_end: '2024-06-15'
     description: |2-
-        Teaching assistant for Master's course of Prof. Mackenzie. This was the first year that the course was given. This included:
+        Teaching assistant for Master's course of Prof. Mackenzie Mathis. This was the first year that the course was given. This included:
 
         * Helping with the conception of the course, sections slides and exam questions.
         * Leading weekly journal clubs during the exercise sections, orienting the students to have a discussion on the papers we reviewed.
@@ -45,7 +45,7 @@ experience:
     date_start: '2023-09-15'
     date_end: '2023-12-15'
     description: |2-
-        Teaching assistant for third-year Bachelor's students in the course of Prof. Mackenzie Mathis and Pavan Ramdya. This included:
+        Teaching assistant for third-year Bachelor's students in the course of Prof. Mackenzie Mathis and Prof. Pavan Ramdya. This included:
 
         * Overview presentation at the beginning of every exercises sections.
         * Follow-up on courses, answering questions and deepening complex concepts.
