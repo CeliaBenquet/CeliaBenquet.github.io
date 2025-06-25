@@ -29,7 +29,7 @@ social:
     display:
       header: false
   - icon: orcid
-    icon_pack: fas
+    icon_pack: fab
     link: https://orcid.org/0009-0007-4759-0043
     display:
       header: false
