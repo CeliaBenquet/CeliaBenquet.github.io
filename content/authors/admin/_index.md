@@ -23,9 +23,16 @@ social:
     display:
       header: false
   - icon: bluesky
-    icon_pack: fab
+    icon_pack: fas
     link: https://bsky.app/profile/celia-bqt.bsky.social
     label: Follow me on Bluesky!
+    display:
+      header: false
+  - icon: orcid
+    icon_pack: fas
+    link: https://orcid.org/0009-0007-4759-0043
+    display:
+      header: false
   - icon: cv
     icon_pack: ai
     link: uploads/CeliaBenquet_CV.pdf
