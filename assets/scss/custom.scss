@@ -1,0 +1,27 @@
+/* Publications section tweaks: centered heading and left small thumbnail */
+
+#publications .section-heading {
+  text-align: center;
+  align-items: center !important;
+}
+
+#publications .section-heading h1 {
+  width: 100%;
+}
+
+#publications .view-compact {
+  align-items: flex-start;
+}
+
+#publications .view-compact > .ml-3 {
+  order: -1;
+  margin-left: 0 !important;
+  margin-right: 3rem;
+}
+
+#publications .view-compact > .ml-3 img {
+  width: 350px;
+  max-width: none;
+  height: auto;
+  image-rendering: auto;
+}

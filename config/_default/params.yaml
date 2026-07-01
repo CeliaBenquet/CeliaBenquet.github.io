@@ -6,20 +6,20 @@
 # Appearance
 
 appearance:
-  theme_day: rose
-  theme_night: rose
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
   font_size: L
 
 # # SEO
 
-# marketing:
-#   seo:
-#     site_type: Person
-#     local_business_type: ''
-#     org_name: ''
-#     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-#     twitter: 'wowchemy'
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'Célia Benquet - ML Researcher and Research Software Engineer working on representation learning, active sensing, and biological time-series modeling.'
+    twitter: ''
 #   analytics:
 #     google_analytics: ''
 #     baidu_tongji: ''
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/CeliaBenquet'
     content_dir: content
     branch: main
   avatar:

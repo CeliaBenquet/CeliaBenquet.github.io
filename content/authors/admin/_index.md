@@ -1,8 +1,8 @@
 ---
 title: Célia Benquet
-role: PhD student
+role: ML Researcher & Research Software Engineer
 avatar_filename: avatar.jpg
-bio: I'm interested in understanding the internal models of the brain, related to higher processings such as learning or decision-making. 
+bio: AI for Science • Representation Learning • Time-Series Modeling.
 interests:
   - Computational Neurosciences
   - Artificial & neural intelligence
@@ -37,16 +37,16 @@ social:
     icon_pack: ai
     link: uploads/CeliaBenquet_CV.pdf
 organizations:
-  - name: Mathis Lab, EPFL
+  - name: M-Lab of Adaptive Intelligence, EPFL
     url: http://www.mackenziemathislab.org/
   # - name: ELLIS Society
   #   url: https://ellis.eu/
 education:
   courses:
-    - course: PhD in Electrical Engineering
+    - course: PhD in Electrical Engineering (ELLIS Society PhD Fellow; EPFL PhD Excellence Fellow)
       institution: EPFL
       year: Present
-    - course: MSc in Computational Engineering & Neurosciences
+    - course: MSc in Computational Sciences & Life Sciences Engineering (EPFL-WISH Foundation Fellow)
       institution: EPFL
       year: 2022
     - course: BSc in Life Science Engineering
@@ -62,7 +62,9 @@ email: "celia.benquet@gmail.com"
 highlight_name: true
 ---
 
-I am a third-year PhD candidate in computational neuroscience at the [Mathis Laboratory of Adaptive Intelligence](http://www.mackenziemathislab.org/) (EPFL, Switzerland). My research lies at the intersection of machine learning and neuroscience, where I develop data-driven models to study and replicate how biological and artifical agents actively seek information in complex and uncertain environements. I work on representation learning, contrastive methods, and time-series analysis of high-dimensional behavioral and neural data. A key focus is understanding how vision and movement interact to support adaptive decision-making.
+I am a fourth-year PhD candidate in computational neuroscience at the [M-Lab of Adaptive Intelligence](http://www.mackenziemathislab.org/) (EPFL, Switzerland). My research lies at the intersection of machine learning and neuroscience, where I develop data-driven models to study and replicate how biological and artificial agents actively seek information in complex and uncertain environments. I work on representation learning, contrastive methods, and time-series analysis of high-dimensional behavioral and neural data. A key focus is understanding how vision and movement interact to support adaptive decision-making.
+
+I am currently open to ML Research Engineer, Applied Scientist, and Research Software Engineer opportunities.
 
 Beyond neuroscience, I am broadly interested in applications of machine learning to real-world problems — from intelligent systems and robotics to health and brain–computer interfaces. As my PhD progresses, I am extending my work to reinforcement learning, combining behavioral modeling and neural representations to study active information-seeking and adaptive strategies.
 
