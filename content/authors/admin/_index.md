@@ -1,6 +1,6 @@
 ---
 title: Célia Benquet
-role: ML Researcher & Research Software Engineer
+role: Doctoral Researcher
 avatar_filename: avatar.jpg
 bio: AI for Science • Representation Learning • Time-Series Modeling.
 interests:
@@ -63,8 +63,6 @@ highlight_name: true
 ---
 
 I am a fourth-year PhD candidate in computational neuroscience at the [M-Lab of Adaptive Intelligence](http://www.mackenziemathislab.org/) (EPFL, Switzerland). My research lies at the intersection of machine learning and neuroscience, where I develop data-driven models to study and replicate how biological and artificial agents actively seek information in complex and uncertain environments. I work on representation learning, contrastive methods, and time-series analysis of high-dimensional behavioral and neural data. A key focus is understanding how vision and movement interact to support adaptive decision-making.
-
-I am currently open to ML Research Engineer, Applied Scientist, and Research Software Engineer opportunities.
 
 Beyond neuroscience, I am broadly interested in applications of machine learning to real-world problems — from intelligent systems and robotics to health and brain–computer interfaces. As my PhD progresses, I am extending my work to reinforcement learning, combining behavioral modeling and neural representations to study active information-seeking and adaptive strategies.
 
