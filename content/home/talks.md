@@ -24,7 +24,6 @@ design:
 
 ## Posters
 
-- **Nov 2026** — 2026 SCENE annual meeting. *Unified CEBRA learns shared neural latents across recordings to map single-neuron contributions to population codes* (**Benquet**, Mirzaei, Schneider, Mathis).
-- **Feb 2025** — Swiss Society for Neuroscience Annual Meeting 2025. *An augmented reality system to study active visual sensing in dynamically occluded environments* (**Benquet**\*, Sainsbury\*, Cai, Fahey, Franke, Franco, Pitkow, Niell, Tolias, Mathis).
-- Swiss Society for Neuroscience Annual Meeting 2025. *A Unified Encoder for Modeling Neural Dynamics with Contrastive Learning* (Benquet, Mirzaei, Schneider, Mathis).
-- Neuro-X Retreat 2024. *An augmented reality system to study active visual sensing in dynamically occluded environments*.
+- **Nov 2026** — 2026 SCENE annual meeting. *Unified CEBRA learns shared neural latents across recordings to map single-neuron contributions to population codes*.
+- **Feb 2025** — Swiss Society for Neuroscience Annual Meeting 2025. *An augmented reality system to study active visual sensing in dynamically occluded environments*.
+- **July 2024** - Neuro-X Retreat 2024. *An augmented reality system to study active visual sensing in dynamically occluded environments*.

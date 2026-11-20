@@ -2,13 +2,12 @@
 title: Célia Benquet
 role: Doctoral Researcher
 avatar_filename: avatar.jpg
-bio: AI for Science • Representation Learning • Time-Series Modeling.
+bio: Machine learning for biological time series and health
 interests:
-  - Computational Neurosciences
-  - Artificial & neural intelligence
-  - Contrastive & Representation Learning
-  - Motor Control, Vision & Learning
-  - Time-Series & High-Dimensional Data
+  - Computational neuroscience
+  - Representation learning
+  - Time-series
+  - Vision and decision-making
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,16 +40,16 @@ social:
     display:
       header: false
 organizations:
-  - name: M-Lab of Adaptive Intelligence, EPFL
-    url: http://www.mackenziemathislab.org/
+  # - name: M-Lab of Adaptive Intelligence, EPFL
+  #   url: http://www.mackenziemathislab.org/
   # - name: ELLIS Society
   #   url: https://ellis.eu/
 education:
   courses:
-    - course: PhD in Electrical Engineering (ELLIS Society PhD Fellow; EPFL PhD Excellence Fellow)
+    - course: PhD in Electrical Engineering — PhD Excellence Fellow
       institution: EPFL, Switzerland
-      year: Present
-    - course: MSc in Computational Sciences & Life Sciences Engineering (EPFL-WISH Foundation Fellow)
+      year: 2027
+    - course: MSc in Computational Sciences & Life Sciences Engineering — EPFL-WISH Fellow
       institution: EPFL, Switzerland
       year: 2022
     - course: BSc in Life Science Engineering
@@ -66,8 +65,4 @@ email: "celia.benquet@gmail.com"
 highlight_name: true
 ---
 
-I am a fourth-year PhD candidate in computational neuroscience at the [M-Lab of Adaptive Intelligence](http://www.mackenziemathislab.org/) (EPFL, Switzerland). My research lies at the intersection of machine learning and neuroscience, where I develop data-driven models to study and replicate how biological and artificial agents actively seek information in complex and uncertain environments. I work on representation learning, contrastive methods, and time-series analysis of high-dimensional behavioral and neural data. A key focus is understanding how vision and movement interact to support adaptive decision-making.
-
-Beyond neuroscience, I am broadly interested in applications of machine learning to real-world problems — from intelligent systems and robotics to health and brain–computer interfaces. As my PhD progresses, I am extending my work to reinforcement learning, combining behavioral modeling and neural representations to study active information-seeking and adaptive strategies.
-
-<!-- 🧠  on understanding how the brain integrates external features in its environment and constructs neural representations models to generalize and extract the relevant information from it 🧩. I have a strong interest in investigating the dynamics 💫 taking place during the formation of such neural representations while learning and performing a task. To do so, I will relate vision 👀 and movements 💪 by exploring the processes at play in active sensing. -->
+I’m a fourth-year doctorate researcher in computational neuroscience at EPFL’s [M-Lab of Adaptive Intelligence](https://mlabofai.org). I develop machine learning methods for biological time series, and my experience includes neural recordings and wearable cardiac signals. I’m interested in applying AI to problems in medtech or biotech.

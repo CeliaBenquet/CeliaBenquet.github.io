@@ -29,10 +29,7 @@ experience:
     location: Geneva, Switzerland
     date_start: '2023-05-01'
     date_end: '2027-05-01'
-    description: |2-
-      * Develop novel representation learning methods for large-scale biological time-series, resulting in Unified CEBRA, a framework for integrating neural recordings across experiments ([Benquet et al. 2026](#publications), preprint, under review).
-      * Led the development of an augmented-reality platform combining game engine, hardware and behavioral experiments, coordinating a 20-author collaboration across three laboratories ([Benquet et al. 2026](#publications), Current Biology).
-      * Mentored 6 MSc students/research assistants, providing technical guidance on machine learning and software development.
+    description: 'Developed Unified CEBRA to compare neural recordings across experiments. Led development of an augmented reality platform across four labs (20 authors) and mentored six students and research assistants. [Related publications](#first-author-publications)'
 
   - title: Research Software Engineer
     company: EPFL, MLAI
@@ -41,19 +38,16 @@ experience:
     location: Geneva, Switzerland
     date_start: '2022-10-01'
     date_end: '2023-05-01'
-    description: |2-
-      * Core contributor to CEBRA, an open-source machine learning framework ([Nature, 2023](https://www.nature.com/articles/s41586-023-06031-6), +1000 GitHub stars).
-      * Developed new model architectures, data management & inference pipelines, reproducible API, and software structure.
+    description: 'Contributed model architectures, data and inference pipelines, and API improvements to the open-source CEBRA library. [CEBRA on GitHub](https://github.com/AdaptiveMotorControlLab/CEBRA)'
 
   - title: Visiting Graduate Student
-    company: Harvard University, Uchida laboratory
+    company: Harvard University, Uchida laboratory, Prof. Naoshige Uchida
     company_url: 'https://projects.iq.harvard.edu/uchidalab/home'
     company_logo: harvard
     location: Cambridge, US
     date_start: '2022-02-15'
     date_end: '2022-09-01'
-    description: |2-
-      * Compared latent representations in recurrent neural networks and biological neural populations during decision making to study biological computation ([Romero Pinto, 2026](#publications), preprint, under review)
+    description: 'Studied how neural populations and recurrent models represent beliefs during decision-making. [Related preprint](#other-publications)'
 
   - title: R&D ML Engineer Intern
     company: Rhythm Diagnostic Systems (medtech startup)
@@ -62,10 +56,7 @@ experience:
     location: Strasbourg, France
     date_start: '2021-08-01'
     date_end: '2022-02-01'
-    description: |2-
-      * Evaluated machine learning algorithms for ECG and PPG signal quality assessment to improve a wearable cardiac monitoring device.
-      * Designed and benchmarked anomaly detection pipelines on clinical and synthetic datasets, comparing supervised and density estimation approaches.
-      * Built reproducible evaluation pipelines and introduced application-specific performance metrics to balance clinical safety, data availability, and computational efficiency.
+    description: 'Built reproducible evaluation pipelines and benchmarked anomaly detection methods on clinical and synthetic ECG and PPG data for a wearable cardiac monitor.'
 
 design:
   columns: '2'

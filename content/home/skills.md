@@ -16,30 +16,18 @@ subtitle: ''
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: PyTorch, scikit-learn, pandas
-    icon: python
-    icon_pack: fab
-    name: Python
-  - description: Representation learning, contrastive learning, time-series modeling, latent variable models
+  - description: Representation learning and time-series modeling with PyTorch and scikit-learn
     icon: network-wired
     icon_pack: fas
     name: Machine Learning
-  - description: Neural data analysis, image/signal processing, high-dimensional data, relational databases
+  - description: Neural and physiological signals, behavioral data, and model evaluation
     icon: chart-line
     icon_pack: fas
     name: Data Analysis
-  - description: Git, CI/CD, Docker, package development, reproducible APIs, agentic coding
+  - description: Python, C++, Docker, CI/CD, and reproducible APIs
     icon: code-branch
     icon_pack: fas
     name: Software Engineering
-  - description: Python, C++, Java
-    icon: code
-    icon_pack: fas
-    name: Programming
-  - description: Computational neuroscience, vision, learning and decision-making
-    icon: brain
-    icon_pack: fas
-    name: Neuroscience
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
