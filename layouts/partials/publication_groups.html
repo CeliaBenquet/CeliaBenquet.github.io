@@ -1,0 +1,32 @@
+{{ $firstAuthor := slice }}
+{{ $other := slice }}
+{{ range .publications.ByDate.Reverse }}
+  {{ if and .Params.authors (eq (index .Params.authors 0) "admin") }}
+    {{ $firstAuthor = $firstAuthor | append . }}
+  {{ else }}
+    {{ $other = $other | append . }}
+  {{ end }}
+{{ end }}
+
+{{ $groups := slice
+  (dict "id" "first-author-publications" "title" "First-author publications" "items" $firstAuthor)
+  (dict "id" "other-publications" "title" "Other publications" "items" $other)
+}}
+{{ range $groups }}
+  {{ if .items }}
+    <section class="mb-4" aria-labelledby="{{ .id }}">
+      <h2 id="{{ .id }}">{{ .title }}</h2>
+      {{ range $index, $item := .items }}
+        {{ $view := dict "page" $.page "item" $item "view" $.view "index" $index }}
+        {{ if $.filter }}
+          {{ $publicationType := index ($item.Params.publication_types | default (slice 0)) 0 }}
+          <div data-publication-type="{{ $publicationType }}" data-publication-year="{{ $item.Date.Format "2006" }}">
+            {{ partial "functions/render_view" $view }}
+          </div>
+        {{ else }}
+          {{ partial "functions/render_view" $view }}
+        {{ end }}
+      {{ end }}
+    </section>
+  {{ end }}
+{{ end }}

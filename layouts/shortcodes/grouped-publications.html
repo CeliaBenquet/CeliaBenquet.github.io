@@ -1,0 +1,3 @@
+{{ with site.GetPage "section" "publication" }}
+  {{ partial "publication_groups.html" (dict "page" $.Page "publications" .RegularPages "view" "compact") }}
+{{ end }}

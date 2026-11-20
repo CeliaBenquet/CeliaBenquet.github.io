@@ -30,9 +30,9 @@ experience:
     date_start: '2023-05-01'
     date_end: '2027-05-01'
     description: |2-
-      * Develop novel representation learning methods for large-scale biological time-series, resulting in Unified CEBRA, a framework for integrating neural recordings across experiments (under review).
-      * Led the development of an augmented-reality platform combining game engine, hardware and behavioral experiments, coordinating a 20-author collaboration across three laboratories ([Benquet et al. 2026](#publications)).
-      * Mentored 6 MSc and semester students, providing technical guidance on machine learning and software development.
+      * Develop novel representation learning methods for large-scale biological time-series, resulting in Unified CEBRA, a framework for integrating neural recordings across experiments ([Benquet et al. 2026](#publications), preprint, under review).
+      * Led the development of an augmented-reality platform combining game engine, hardware and behavioral experiments, coordinating a 20-author collaboration across three laboratories ([Benquet et al. 2026](#publications), Current Biology).
+      * Mentored 6 MSc students/research assistants, providing technical guidance on machine learning and software development.
 
   - title: Research Software Engineer
     company: EPFL, MLAI
@@ -53,10 +53,10 @@ experience:
     date_start: '2022-02-15'
     date_end: '2022-09-01'
     description: |2-
-      * Compared latent representations in recurrent neural networks and biological neural populations during decision making to study biological computation.
+      * Compared latent representations in recurrent neural networks and biological neural populations during decision making to study biological computation ([Romero Pinto, 2026](#publications), preprint, under review)
 
   - title: R&D ML Engineer Intern
-    company: Rhythm Diagnostic Systems (Medtech)
+    company: Rhythm Diagnostic Systems (medtech startup)
     company_url: 'https://rdsdiag.com/'
     company_logo: rds
     location: Strasbourg, France

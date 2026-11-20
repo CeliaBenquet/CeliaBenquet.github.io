@@ -1,0 +1,9 @@
+{{ if eq .Type "publication" }}
+  {{ $altmetricID := .Params.altmetric_id }}
+  {{ if or $altmetricID .Params.doi }}
+    <div class="altmetric-embed publication-altmetric"
+         {{ if $altmetricID }}data-altmetric-id="{{ $altmetricID }}"{{ else }}data-doi="{{ .Params.doi }}"{{ end }}
+         data-badge-type="donut"
+         data-badge-popover="left"></div>
+  {{ end }}
+{{ end }}

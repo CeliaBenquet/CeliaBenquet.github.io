@@ -16,11 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 
-    icon: venus
-    icon_pack: fas
-    name: Feminism
-  - description: 
+  - description: 'Facilitator at [La Fresque du Climat](https://fresqueduclimat.org/)'
     icon: seedling
     icon_pack: fas
     name: Environment
@@ -32,7 +28,7 @@ feature:
     icon: mountain-sun
     icon_pack: fas
     name: Mountain sports
-  - description:
+  - description: Plays, now trying improv
     icon: masks-theater
     icon_pack: fas
     name: Acting
@@ -40,6 +36,10 @@ feature:
     icon: sailboat
     icon_pack: fas
     name: Water sports
+  - description: Non-fiction and fiction
+    icon: book-open
+    icon_pack: fas
+    name: Reading
 
 
 

@@ -25,3 +25,19 @@
   height: auto;
   image-rendering: auto;
 }
+
+.publication-altmetric {
+  flex: 0 0 48px;
+  min-height: 48px;
+  margin-left: 1rem;
+}
+
+@media (max-width: 767.98px) {
+  #publications .view-compact > .ml-3 {
+    margin-right: 1rem;
+  }
+
+  #publications .view-compact > .ml-3 img {
+    max-width: 80px;
+  }
+}

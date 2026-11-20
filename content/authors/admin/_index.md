@@ -22,20 +22,24 @@ social:
     link: https://www.linkedin.com/in/celiabenquet/
     display:
       header: false
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0007-4759-0043
+    label: ORCID
+    display:
+      header: false
+  - icon: google-scholar
+    icon_pack: ai
+    link: "https://scholar.google.com/citations?user=Y-dVb4cAAAAJ&hl=en"
+    label: Google Scholar
+    display:
+      header: false
   - icon: bluesky
     icon_pack: fas
     link: https://bsky.app/profile/celia-bqt.bsky.social
     label: Follow me on Bluesky!
     display:
       header: false
-  # - icon: orcid
-  #   icon_pack: fab
-  #   link: https://orcid.org/0009-0007-4759-0043
-  #   display:
-  #     header: false
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CeliaBenquet_CV.pdf
 organizations:
   - name: M-Lab of Adaptive Intelligence, EPFL
     url: http://www.mackenziemathislab.org/
@@ -44,13 +48,13 @@ organizations:
 education:
   courses:
     - course: PhD in Electrical Engineering (ELLIS Society PhD Fellow; EPFL PhD Excellence Fellow)
-      institution: EPFL
+      institution: EPFL, Switzerland
       year: Present
     - course: MSc in Computational Sciences & Life Sciences Engineering (EPFL-WISH Foundation Fellow)
-      institution: EPFL
+      institution: EPFL, Switzerland
       year: 2022
     - course: BSc in Life Science Engineering
-      institution: EPFL
+      institution: "EPFL, Switzerland. Exchange: KTH, Sweden"
       year: 2019
 superuser: true
 last_name: Benquet

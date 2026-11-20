@@ -73,11 +73,10 @@
     {{ end }}
 
   </div>
-  <div class="ml-3">
-    {{ $resource := partial "functions/get_featured_image.html" $item }}
-    {{ with $resource }}
+  {{ with partial "functions/get_featured_image.html" $item }}
+    <div class="ml-3 d-flex align-items-center">
       {{ if eq $item.Type "publication" }}
-        {{ $image := .Resize "960x q95 webp" }}
+        {{ $image := .Resize "420x q95 webp" }}
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
           <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
               alt="{{ $item.Title }}" loading="lazy">
@@ -89,6 +88,7 @@
               alt="{{ $item.Title }}" loading="lazy">
         </a>
       {{ end }}
-    {{end}}
-  </div>
+    </div>
+  {{ end }}
+  {{ partial "altmetric_badge" $item }}
 </div>

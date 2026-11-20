@@ -27,6 +27,7 @@ author_notes:
 
 date: "2026-07-20T00:00:00Z"
 doi: "10.1016/j.cub.2026.06.011"
+altmetric_id: "198947457"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-07-01T00:00:00Z"

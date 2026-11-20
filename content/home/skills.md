@@ -16,7 +16,7 @@ subtitle: ''
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: PyTorch, scikit-learn, pandas, gymnasium
+  - description: PyTorch, scikit-learn, pandas
     icon: python
     icon_pack: fab
     name: Python
@@ -24,15 +24,15 @@ feature:
     icon: network-wired
     icon_pack: fas
     name: Machine Learning
-  - description: Neural data analysis (NWB, DANDI), image/signal processing, high-dimensional data visualization
+  - description: Neural data analysis, image/signal processing, high-dimensional data, relational databases
     icon: chart-line
     icon_pack: fas
     name: Data Analysis
-  - description: Git, CI/CD, Docker, package development, reproducible APIs
+  - description: Git, CI/CD, Docker, package development, reproducible APIs, agentic coding
     icon: code-branch
     icon_pack: fas
     name: Software Engineering
-  - description: C++, Java, MATLAB, SQL
+  - description: Python, C++, Java
     icon: code
     icon_pack: fas
     name: Programming
