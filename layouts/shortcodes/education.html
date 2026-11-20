@@ -1,0 +1,16 @@
+<ul class="ul-edu fa-ul mb-0 education-grid">
+  {{ range .Page.Params.courses }}
+    <li class="mb-2">
+      <i class="fa-li fas fa-graduation-cap" aria-hidden="true"></i>
+      <div class="description">
+        <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+        <p class="institution">
+          {{ range .details }}
+            <span class="d-block pl-2">{{ . }}</span>
+          {{ end }}
+          {{ .institution }}
+        </p>
+      </div>
+    </li>
+  {{ end }}
+</ul>

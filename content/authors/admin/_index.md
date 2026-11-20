@@ -44,17 +44,6 @@ organizations:
   #   url: http://www.mackenziemathislab.org/
   # - name: ELLIS Society
   #   url: https://ellis.eu/
-education:
-  courses:
-    - course: PhD in Electrical Engineering — PhD Excellence Fellow
-      institution: EPFL, Switzerland
-      year: 2027
-    - course: MSc in Computational Sciences & Life Sciences Engineering — EPFL-WISH Fellow
-      institution: EPFL, Switzerland
-      year: 2022
-    - course: BSc in Life Science Engineering
-      institution: "EPFL, Switzerland. Exchange: KTH, Sweden"
-      year: 2019
 superuser: true
 last_name: Benquet
 highlight_name: true
